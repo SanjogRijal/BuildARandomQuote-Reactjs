@@ -1,0 +1,23 @@
+.wrapper {
+    /* left: 10px; */
+    position: relative;
+    left: 35%;
+    border: 1px solid red;
+    width: fit-content;
+    top: 250px;
+}
+
+#text {
+
+	padding: 10px;
+}
+
+#author {
+
+	padding: 10px;
+}
+
+#button {
+
+	padding: 10px;
+}
